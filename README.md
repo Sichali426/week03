@@ -3,56 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wireframe Implementation</title>
+    <title>White Water Rafting Adventures</title>
 </head>
 <body>
     <header>
-        <img src="placeholder-logo.jpg" alt="Placeholder Logo">
+        <img src="images/rafting-logo.png" alt="Water Rafting Company Logo">
         <nav>
-            <a href="#link1">Link 1 Placeholder</a>
-            <a href="#link2">Link 2 Placeholder</a>
-            <a href="#link3">Link 3 Placeholder</a>
-            <a href="#link4">Link 4 Placeholder</a>
+            <a href="index.html">Home</a>
+            <a href="trips.html">Trips</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact</a>
         </nav>
     </header>
     
     <main>
-        <section>
-            <h1>Main Heading</h1>
-            <p>This is a paragraph of text under the main heading.</p>
-            <button>Call to Action</button>
+        <section class="hero">
+            <h1>Experience the Thrill of White Water Rafting</h1>
+            <p>Join us for unforgettable adventures on the wildest rivers!</p>
+            <button>Book Your Trip Today</button>
         </section>
         
-        <section>
+        <section class="features">
             <article>
-                <h2>Article Heading 1</h2>
-                <p>Article content goes here.</p>
+                <h2>Beginner Trips</h2>
+                <p>Perfect for first-timers and families.</p>
             </article>
             <article>
-                <h2>Article Heading 2</h2>
-                <p>Article content goes here.</p>
+                <h2>Advanced Rapids</h2>
+                <p>Challenge yourself with our expert-level courses.</p>
             </article>
             <article>
-                <h2>Article Heading 3</h2>
-                <p>Article content goes here.</p>
+                <h2>Group Packages</h2>
+                <p>Special rates for groups of 6 or more.</p>
             </article>
         </section>
         
-        <aside>
-            <h3>Sidebar Heading</h3>
+        <aside class="testimonials">
+            <h3>What Our Customers Say</h3>
             <ul>
-                <li>Item 1</li>
-                <li>Item 2</li>
-                <li>Item 3</li>
+                <li>"Best rafting experience ever!" - Jane D.</li>
+                <li>"The guides were incredibly professional." - Mark T.</li>
+                <li>"Can't wait to come back next year!" - Sarah K.</li>
             </ul>
         </aside>
     </main>
     
     <footer>
-        <p>&copy; 2025 Company Name. All rights reserved.</p>
-        <nav>
-            <a href="#privacy">Privacy Policy</a>
-            <a href="#terms">Terms of Service</a>
+        <p>&copy; 2025 Water Rafting Company. All rights reserved.</p>
+        <nav class="footer-nav">
+            <a href="privacy.html">Privacy Policy</a>
+            <a href="terms.html">Terms of Service</a>
         </nav>
     </footer>
 </body>
