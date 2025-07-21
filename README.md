@@ -7,12 +7,12 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="Company Logo">
+        <img src="placeholder-logo.jpg" alt="Placeholder Logo">
         <nav>
-            <a href="#home">Home</a>
-            <a href="#products">Products</a>
-            <a href="#services">Services</a>
-            <a href="#contact">Contact</a>
+            <a href="#link1">Link 1 Placeholder</a>
+            <a href="#link2">Link 2 Placeholder</a>
+            <a href="#link3">Link 3 Placeholder</a>
+            <a href="#link4">Link 4 Placeholder</a>
         </nav>
     </header>
     
